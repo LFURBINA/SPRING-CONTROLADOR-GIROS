@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "currency",
+      "type": "org.colfuturo.ctd.currency.system.CtdCurrencyProperties",
+      "sourceType": "org.colfuturo.ctd.currency.system.CtdCurrencyProperties"
+    },
+    {
+      "name": "currency.cache",
+      "type": "org.colfuturo.ctd.currency.system.CtdCurrencyProperties$Cache",
+      "sourceType": "org.colfuturo.ctd.currency.system.CtdCurrencyProperties",
+      "sourceMethod": "public org.colfuturo.ctd.currency.system.CtdCurrencyProperties.Cache getCache() "
+    }
+  ],
+  "properties": [
+    {
+      "name": "currency.cache.heap-size",
+      "type": "java.lang.Integer",
+      "sourceType": "org.colfuturo.ctd.currency.system.CtdCurrencyProperties$Cache"
+    },
+    {
+      "name": "currency.cache.ttl",
+      "type": "java.lang.Integer",
+      "sourceType": "org.colfuturo.ctd.currency.system.CtdCurrencyProperties$Cache"
+    }
+  ],
+  "hints": []
+}

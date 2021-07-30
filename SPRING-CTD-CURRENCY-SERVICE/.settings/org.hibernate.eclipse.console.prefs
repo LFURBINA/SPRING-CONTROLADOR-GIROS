@@ -1,0 +1,3 @@
+default.configuration=SPRING-CTD-CURRENCY-SERVICE
+eclipse.preferences.version=1
+hibernate3.enabled=true
